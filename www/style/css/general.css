@@ -1,4 +1,5 @@
 *           {text-decoration: none; font-family: Consolas, monospace;}
+body        {background-color: lemonchiffon; padding: 0px; margin: 0px;}
 p           {text-indent: 1em;}
 blockquote  {margin: 10px; background-color:floralwhite;}
 .Head       {margin: 0px ; background-color: lightskyblue;}
@@ -11,7 +12,7 @@ blockquote  {margin: 10px; background-color:floralwhite;}
 .NavA       {display: block; text-align: center; padding: 10px 15px; color: darkslateblue;}
 .NavA:hover, .NavA:active
             {background-color: skyblue; color: darkslateblue;}
-.Doc        {margin: 0px 10px}
+.Doc        {margin: 0px 10px;}
 .i          {font-style: italic;}
 .LnkA, .LnkA:active, .LnkA:visited
-            {color: steelblue}
+            {color: steelblue;}
