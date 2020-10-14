@@ -29,3 +29,5 @@ blockquote  {margin: 10px; background-color: #f3f3f3;}
 
 .LnkA, .LnkA:active, .LnkA:visited
             {color: steelblue;}
+
+.version    {color: forestgreen}
